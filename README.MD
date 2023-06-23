@@ -30,4 +30,5 @@ Sigue las siguientes instrucciones:
 
 11. Entregar en la tarea de la plataforma el link al repositorio de GitHub. Se evaluará el `git log` y los archivos ignorados para verificar que se siguieron las consignas.
 
-Recuerda que el objetivo principal de este trabajo práctico es practicar tus habilidades con Git y GitHub. ¡Buena suerte!
+Recuerda que el objetivo principal de este trabajo práctico es practicar tus habilidades con Git y GitHub. ¡Buena suerte!.
+:D
