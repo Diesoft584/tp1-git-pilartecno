@@ -23,8 +23,17 @@ function extractValues(data) {
 */
 
 function arrayToLengthCounters(array) {
-  
-  }  
+  const counters = {};
+
+  array.forEach((element) => {
+    counters[element] = element.length;
+  });
+
+  return counters;
+}
+
+  const array = ['gato', 'perro', 'elefante'];
+  const results = arrayToLengthCounters(array); 
   
 
 /*  
