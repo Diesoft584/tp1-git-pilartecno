@@ -7,7 +7,9 @@
 */
 
 function extractValues(data) {
-
+  return Object.values(data);
+  const obj = {a: 1, b: 2, c: 3};
+  const values = extractValues(obj);
   
 }
 
